@@ -28,10 +28,10 @@ The following sentences used generate the clips. The length for each clip was 0.
 
 Then we combined all the clips and add the voiceover.
 
-*__Final Clip - English Voiceover By Asmaa Alrefae__: https://youtu.be/5YVrcXaBURw
+* __Final Clip - English Voiceover By Asmaa Alrefae__: https://youtu.be/5YVrcXaBURw
 
 
-*__Final Clip - Arabic Voiceover By Maha AlQroon__: https://youtu.be/UMedWFQqY4Q
+* __Final Clip - Arabic Voiceover By Maha AlQroon__: https://youtu.be/UMedWFQqY4Q
 
 
 
@@ -48,11 +48,11 @@ Then we combined all the clips and add the voiceover.
 __References__: 
 
 
-*Vadim Epstein Projcet: https://github.com/eps696/aphantasia
+* Vadim Epstein Projcet: https://github.com/eps696/aphantasia
 
 
-*Orignal story Link: http://www.dailytenminutes.com/2018/07/1-old-man-lived-in-village-moral-stories.html
+* Orignal story Link: http://www.dailytenminutes.com/2018/07/1-old-man-lived-in-village-moral-stories.html
 
 
-*"Aphantasia: is the inability to visualize mental images, the deprivation of visual dreams"
+* "Aphantasia: is the inability to visualize mental images, the deprivation of visual dreams"
 
